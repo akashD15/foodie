@@ -1,0 +1,4 @@
+<root>
+    void androidx.recyclerview.widget.RecyclerView.setLayoutManager(androidx.recyclerview.widget.RecyclerView$LayoutManager)
+</root>
+
